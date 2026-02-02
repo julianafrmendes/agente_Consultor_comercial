@@ -75,4 +75,9 @@ agente_cafeteria/
 ├── requirements.txt        # Dependências do projeto
 ├── .gitignore              # Arquivos ignorados pelo Git
 └── README.md               # Documentação do projeto
+```
+
+---
+“ Adoraria receber seu feedback sobre a performance, facilidade de uso e resultado. Se você testar, por favor deixe seus comentários.
+
 
