@@ -70,11 +70,11 @@ Toda a orquestração é feita com **LangGraph**, garantindo controle de estado 
 
 ```text
 agente_cafeteria/
-├── agente_cafeteria.py      # Script principal do agente
-├── cafeteria_vendas.csv    # Base de dados de exemplo
-├── requirements.txt        # Dependências do projeto
-├── .gitignore              # Arquivos ignorados pelo Git
-└── README.md               # Documentação do projeto
+├── agente_cafeteria.py     
+├── cafeteria_vendas.csv    
+├── requirements.txt        
+├── .gitignore             
+└── README.md              
 ```
 
 ---
